@@ -1,0 +1,13 @@
+1. Die Welt ist alles, was der Fall ist.
+
+2. Was der Fall ist, die Tatsache, ist das Bestehen von Sachverhalten.
+
+3. Das logische Bild der Tatsachen ist der Gedanke.
+
+4. Der Gedanke ist der sinnvolle Satz.
+
+5. Der Satz ist eine Wahrheitsfunktion der Elementarsätze.
+
+6. Die allgemeine Form der Wahrheitsfunktion ist: [ p, \xi, N(\xi) ]. Dies ist die allgemeine Form des Satzes.
+
+7. Wovon man nicht sprechen kann, darüber muß man schweigen.
